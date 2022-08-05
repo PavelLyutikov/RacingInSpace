@@ -1,6 +1,6 @@
 ## Racing in Space
 
-это открытие для меня как Unity так и Blender 3D. Код написан грязно, повторяю это мой первый проект на Unity - раннер в котором пользователь управляет летающим автомобилем.
+this is a discovery for me of both Unity and Blender 3D. The code is written dirty, I repeat this is my first Unity runner project in which the user controls a flying car.
 
 ____
 
