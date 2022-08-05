@@ -4,7 +4,7 @@
 
 ____
 
-<img src="file:///Users/pavellyutikov/Desktop/5.png" title="" alt="5.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/RacingInSpace/blob/main/Screenshot/5.png?raw=true" title="" alt="5.png" data-align="center">
 
 ____
 
@@ -16,11 +16,11 @@ ____
 
 - In this game there is an infinitely generated road and obstacles, the further you go, the higher the speed of movement. You need to score the maximum number of points.
   
-  <img src="file:///Users/pavellyutikov/Desktop/Group%20205.png" title="" alt="Group 205.png" data-align="center">
+  <img src="https://github.com/PavelLyutikov/RacingInSpace/blob/main/Screenshot/Group%20205.png?raw=true" title="" alt="Group 205.png" data-align="center">
 
 - Also, to get acquainted with Blender, I made a car model myself.
   
-  <img src="file:///Users/pavellyutikov/Desktop/Group%20204.png" title="" alt="Group 204.png" data-align="center">
+  <img src="https://github.com/PavelLyutikov/RacingInSpace/blob/main/Screenshot/Group%20204.png?raw=true" title="" alt="Group 204.png" data-align="center">
 
 ### Requirements
 
